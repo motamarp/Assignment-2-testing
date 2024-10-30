@@ -15,8 +15,10 @@ header {
     display: flex;
     flex-wrap: wrap;
     background-color: #000000;
+    /*
     text-align: center;
     padding: 20px;
+    */
 }
 
 .header-image-container img {
