@@ -49,10 +49,15 @@ header {
     position: absolute; 
     left: 20px; /* Align it to the left */
     top: 100px; 
+
+    display: flex; 
+    flex-direction: column;
 }
 
 .filter-input-container {
     margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
 }
 
 .filter-input-label {
@@ -86,7 +91,6 @@ header {
     background-color: #000000; 
     color: white;
     border: none;
-    width: 100%
     border-radius: 4px;
     padding: 10px 15px;
     cursor: pointer;
