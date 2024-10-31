@@ -61,6 +61,14 @@ header {
     font-family: 'Roboto,' serif; 
 }
 
+.filter-fieldset {
+
+    border-color: #ABABAB
+    width: 100% 
+    margin-bottom: 10px
+
+}
+
 .filter-input-label {
     display: inline-block;
     margin-bottom: 5px;
