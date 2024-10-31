@@ -119,7 +119,7 @@ header {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Wider minimum width */
     gap: 20px;
     padding: 20px;
-    margin-left: 600px; /* Add margin to account for the filters box */
+    margin-left: 100x; /* Add margin to account for the filters box */
 }
 
 .post {
