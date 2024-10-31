@@ -55,7 +55,6 @@ main.content {
 }
 
 .filter-input-container {
-    margin-bottom: 0px;
     display: flex;
     flex-direction: row;
     font-family: 'Roboto,' serif; 
