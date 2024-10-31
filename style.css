@@ -45,11 +45,11 @@ main.content {
 /* Filters Sidebar */
 .filter-container {
     background-color: #EAEAEA;
-    padding: 20px;
+    padding: 15px;
     border: 1px solid #ccc;
-    margin: 20px;
+    margin: 15px;
     border-radius: 5px;
-    width: 250px; /* Set a fixed width for the filters box */
+    width: 400px; /* Set a fixed width for the filters box */
     display: flex; 
     flex-direction: column;
     height: 360px
@@ -69,14 +69,6 @@ main.content {
     margin-bottom: 15px;
 }
 
-.filter-fieldset {
-
-    border-color: #ABABAB
-    width: 100% 
-    margin-bottom: 10px
-
-}
-
 .filter-input-label {
     display: inline-block;
     margin: 10px 0;
@@ -92,8 +84,11 @@ main.content {
 }
 
 .filter-fieldset {
-    border: none;
-    padding: 0;
+
+    border-color: #ABABAB
+    width: 100% 
+    margin-bottom: 10px
+
 }
 
 .filter-fieldset legend {
