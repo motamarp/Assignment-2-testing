@@ -64,11 +64,12 @@ main.content {
 
 .filter-input-element {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .filter-input-element input {
     margin-left: 10px; /* Add space between the label and the input box */
+    verical-align: top;
 }
 
 .filter-fieldset {
