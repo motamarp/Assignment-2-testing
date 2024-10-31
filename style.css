@@ -70,6 +70,7 @@ main.content {
 .filter-input-element input {
     margin-left: 10px; /* Add space between the label and the input box */
     verical-align: top;
+    height: 36px;
 }
 
 .filter-fieldset {
