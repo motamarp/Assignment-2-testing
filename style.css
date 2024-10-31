@@ -63,7 +63,12 @@ main.content {
 }
 
 .filter-input-element {
-    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.filter-input-element input {
+    margin-left: 10px; /* Add space between the label and the input box */
 }
 
 .filter-fieldset {
