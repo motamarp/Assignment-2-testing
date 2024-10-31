@@ -46,8 +46,6 @@ main.content {
 .filter-container {
     background-color: #EAEAEA;
     padding: 15px;
-    border: 1px solid #ccc;
-    margin: 15px;
     border-radius: 5px;
     width: 400px; /* Set a fixed width for the filters box */
     display: flex; 
@@ -60,7 +58,7 @@ main.content {
     flex-direction: row;
     font-family: 'Roboto,' serif; 
     align-items: center;
-    margin-bottom: 15px
+    width: 100%;
 }
 
 .filter-input-element {
