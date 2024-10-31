@@ -38,7 +38,7 @@ header {
     color: #FFFFFF;
 }
 
-main.content {
+main {
     display: flex;
 }
 
@@ -46,6 +46,7 @@ main.content {
 .filter-container {
     background-color: #EAEAEA;
     padding: 15px;
+    margin: 15px;
     border-radius: 5px;
     width: 400px; /* Set a fixed width for the filters box */
     display: flex; 
