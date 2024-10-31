@@ -67,12 +67,12 @@ main.content {
     margin-bottom: 15px;
 }
 
-.filter-input-label {
+/* .filter-input-label {
     display: inline-block;
     margin: 10px 0;
     margin-right: 10px;
     font-weight: bold;
-}
+} */
 
 .filter-input {
     width: calc(100% - 10px);
