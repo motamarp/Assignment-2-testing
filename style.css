@@ -52,6 +52,7 @@ main.content {
     width: 250px; /* Set a fixed width for the filters box */
     display: flex; 
     flex-direction: column;
+    height: 360px
 }
 
 .filter-input-container {
