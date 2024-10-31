@@ -67,17 +67,19 @@ main {
     display: flex;
     align-items: flex-start;
     margin-bottom: 15px;
+    gap: 10px; /* Gap between min and max outputs */
 }
 
 .filter-input-label {
     display: inline-block;
     /* margin: 10px 0; */
+    width: 100px; 
     margin-right: 10px;
     font-weight: bold;
 } 
 
 .filter-input {
-    width: calc(100% - 10px);
+    flex-grow: 1; /* Text boxes take up remaining space */
     padding: 5px;
     border-radius: 4px;
     border: 1px solid #ccc;
@@ -87,7 +89,7 @@ main {
 
     border-color: #ABABAB
     width: 100% 
-    margin-bottom: 10px
+    margin-bottom: 20px
 
 }
 
