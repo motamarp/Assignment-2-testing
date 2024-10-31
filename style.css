@@ -59,6 +59,7 @@ main.content {
     flex-direction: row;
     font-family: 'Roboto,' serif; 
     align-items: center;
+    margin-bottom: 15px
 }
 
 .filter-input-element {
