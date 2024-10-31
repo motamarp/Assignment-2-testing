@@ -201,12 +201,3 @@ fa-plus {
 #sell-something-button:hover {
     transform: scale(1.1);
 }
-
-.filter-input-element {
-    display: flex;
-    align-items: center;
-}
-
-.filter-input-element input {
-    margin-right: 5px;
-}
