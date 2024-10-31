@@ -66,7 +66,7 @@ main {
 .filter-input-element {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     gap: 10px; /* Gap between min and max outputs */
 }
 
@@ -74,7 +74,7 @@ main {
     display: inline-block;
     /* margin: 10px 0; */
     width: 100px; 
-    margin-right: 10px;
+    margin-right: 5px;
     font-weight: bold;
 } 
 
